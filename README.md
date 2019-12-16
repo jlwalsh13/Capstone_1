@@ -1,1 +1,1 @@
-# Capstone_1
+Springboard Data Science Career Track Capstone Project 1 - Employed various python libraries to gather and analyze 5000+ fantasy football player data points from 2002 - 2018 and built a draft simulation to determine which whether quarterback or running back is most critical to the success of fantasy teams.
